@@ -4,11 +4,11 @@ This repository contains a collection of my projects in the fields of Natural La
 
 ## Repository Structure
 
-### ml_projects/
-### ├── nlp/
-### ├── cv/
-### ├── multi-modals/
-### └── ...
+##### ml_projects/
+##### ├── nlp/
+##### ├── cv/
+##### ├── multi-modals/
+##### └── ...
 
 ### NLP Projects
 
