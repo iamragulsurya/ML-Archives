@@ -5,12 +5,10 @@ This repository contains a collection of my projects in the fields of Natural La
 ## Repository Structure
 
 ml_projects/
-├── natural-language-processing/
-├── computer-vision/
+├── nlp/
+├── cv/
 ├── multi-modals/
-├── README.md
 └── ...
-
 
 ### NLP Projects
 
@@ -22,7 +20,7 @@ The `cv/` directory houses projects focused on Computer Vision tasks like image 
 
 ### Multimodals Projects
 
-The `multimodal/` directory includes projects that combine multiple modalities, such as vision and language. These projects aim to tackle complex tasks that require understanding and reasoning across different data types, like Visual Question Answering, Image Captioning, and Video Understanding.
+The `multi-modals/` directory includes projects that combine multiple modalities, such as vision and language. These projects aim to tackle complex tasks that require understanding and reasoning across different data types, like Visual Question Answering, Image Captioning, and Video Understanding.
 
 ## Getting Started
 
