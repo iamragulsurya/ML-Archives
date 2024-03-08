@@ -1,14 +1,14 @@
-# Deep Learning Portfolio: NLP, CV, and Multimodal Projects
+# Machine Learning: NLP, CV, and Multimodal Projects
 
 This repository contains a collection of my projects in the fields of Natural Language Processing (NLP), Computer Vision (CV), and Multimodal learning, implemented using deep learning techniques and frameworks like PyTorch.
 
 ## Repository Structure
 
-ml_projects/
-├── nlp/
-├── cv/
-├── multi-modals/
-└── ...
+### ml_projects/
+### ├── nlp/
+### ├── cv/
+### ├── multi-modals/
+### └── ...
 
 ### NLP Projects
 
